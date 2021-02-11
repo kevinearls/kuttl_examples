@@ -1,9 +1,0 @@
-2021-02-09T15:41:48.772012972Z stderr F I0209 15:41:48.771512       1 main.go:65] hostIP = 172.18.0.2
-2021-02-09T15:41:48.772070715Z stderr F podIP = 172.18.0.2
-2021-02-09T15:41:48.772082431Z stderr F I0209 15:41:48.771756       1 main.go:74] setting mtu 1500 for CNI 
-2021-02-09T15:41:49.079718875Z stderr F I0209 15:41:49.079316       1 main.go:157] handling current node
-2021-02-09T15:41:59.179704722Z stderr F I0209 15:41:59.179044       1 main.go:157] handling current node
-2021-02-09T15:42:09.182665856Z stderr F I0209 15:42:09.182380       1 main.go:157] handling current node
-2021-02-09T15:42:19.191078294Z stderr F I0209 15:42:19.189244       1 main.go:157] handling current node
-2021-02-09T15:42:29.196977363Z stderr F I0209 15:42:29.196778       1 main.go:157] handling current node
-2021-02-09T15:42:39.201600697Z stderr F I0209 15:42:39.201294       1 main.go:157] handling current node
