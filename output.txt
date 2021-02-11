@@ -1,4 +1,0 @@
-=== RUN   kuttl
-    harness.go:447: starting setup
-    harness.go:248: running tests using configured kubeconfig.
-    harness.go:275: Successful connection to cluster at: https://192.168.64.30:8443
